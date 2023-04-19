@@ -51,6 +51,33 @@
       "imageUrl": "https://wtop.com/wp-content/uploads/2020/06/HEALTHYFRESH.jpg",
       "createdDate": "new Date()",
       "snaps": 101
+    },
+    {
+      "title": "nouveau Snap ",
+      "description": "Description ",
+      "imageUrl": "https://images.pexels.com/photos/14080409/pexels-photo-14080409.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "location": "Marseille",
+      "snaps": 0,
+      "createdDate": "2023-04-18T14:42:42.746Z",
+      "id": 7
+    },
+    {
+      "title": "musique",
+      "description": "C'est un tambour",
+      "imageUrl": "https://images.pexels.com/photos/16378938/pexels-photo-16378938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "location": "bourgoin jallieu",
+      "snaps": 0,
+      "createdDate": "2023-04-18T14:58:04.327Z",
+      "id": 8
+    },
+    {
+      "title": "Bleu",
+      "description": "Paysage bleu",
+      "imageUrl": "https://images.pexels.com/photos/2215787/pexels-photo-2215787.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "location": "Maroc",
+      "snaps": 0,
+      "createdDate": "2023-04-19T07:36:02.388Z",
+      "id": 9
     }
   ]
 }
